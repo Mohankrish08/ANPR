@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#05386B"
+backgroundColor = "#5CD595"
+secondaryBackgroundColor = "#5CD595"
+textColor = "#000000"
+font = "sans serif"
+badeFontSize = 20
