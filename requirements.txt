@@ -3,6 +3,7 @@ streamlit_option_menu
 streamlit_lottie
 math
 cv2
+csv
 numpy 
 ultralytics
 PIL
