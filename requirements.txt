@@ -1,6 +1,6 @@
 streamlit
 streamlit_option_menu
-stramlit_lottie
+streamlit_lottie
 math
 cv2
 numpy 
