@@ -1,0 +1,14 @@
+streamlit
+streamlit_option_menu
+stramlit_lottie
+math
+cv2
+numpy 
+ultralytics
+PIL
+easyocr
+datetime
+base64
+requests
+tempfile
+io
